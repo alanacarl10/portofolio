@@ -8138,7 +8138,7 @@ body {
   font-size: 16px;
   line-height: 1.8;
   font-weight: 400;
-  color: #999999; }
+   }
   body.menu-show {
     overflow: hidden;
     position: fixed;
@@ -9345,7 +9345,10 @@ textarea.form-control {
   margin-bottom: 40px; }
   .block-6 .media-body p {
     font-size: 16px; }
-
+    
+.services-1:hover{
+  color: #fff;
+}
 .block-27 ul {
   padding: 0;
   margin: 0; }
@@ -9689,6 +9692,7 @@ textarea.form-control {
   border: 1px solid #fff;
   border-radius: 50%;
 }
+
 
 .icon + .icon {
   margin-left: 5px;
